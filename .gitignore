@@ -30,11 +30,6 @@ coverage/
 # TypeScript
 *.tsbuildinfo
 
-# Environment variables
-.env
-.env.*
-!.env.example
-
 # Editor directories and files
 .idea/
 .vscode/
